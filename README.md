@@ -8,6 +8,7 @@ furnishings and ethnic products that are made from traditional techniques, skill
 ## Pages Cloned
 <li>Sign-up/Sign-in page</li>
 <li>Home page</li>
-<li>Products display page<\li>
-<li>Cart page<\li>
-<li>Checkout and Payment process page<\li>
+<li>Products display page</li>
+<li>Cart page</li>
+<li>Checkout and Payment process page</li>
+
